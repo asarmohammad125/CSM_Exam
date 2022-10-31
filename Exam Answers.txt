@@ -1,0 +1,9 @@
+Question-6 Wireshark Analysis
+Q-1? Ans:Hydra
+Q-2?Ans:jenny
+Q-3?Ans:password123
+Q-4?Ans:"/var/www/html" is the current directory
+Q-5?Ans:shell.php
+Q-6?Ans:wir3
+Q-7?Ans:python3 -c 'import pty; pty.spawn("/bin/bash")'
+Q-8?Rootkit
